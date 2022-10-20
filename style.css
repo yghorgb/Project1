@@ -45,7 +45,7 @@ p, #footer {
     width: 568px;
     height: 0;
 
-    margin: 0 auto 72px;
+    margin: 0 auto;
 
     border: 1px solid #ECEFF2;
 }
